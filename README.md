@@ -22,8 +22,6 @@ Just double-click the html file "privacy-browser-analyzer.html" and you are read
 
 Coming soon
 
-## 🛠️ Usage
-
 ### Basic Analysis
 
 1. Open the analyzer in your browser
