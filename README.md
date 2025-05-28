@@ -1,6 +1,6 @@
 # Enhanced Privacy Browser Analyzer
 
-A comprehensive tool for analyzing browser privacy settings, detecting tracking mechanisms, and providing actionable recommendations to enhance your online privacy and security.
+A comprehensive tool for analyzing browser privacy settings, detecting tracking mechanisms, and providing actionable recommendations to enhance your online privacy and security. No installation neccessary.
 
 ## 🔒 Features
 
@@ -16,21 +16,7 @@ A comprehensive tool for analyzing browser privacy settings, detecting tracking 
 
 ## 🚀 Quick Start
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/enhanced-privacy-browser-analyzer.git
-
-# Navigate to the project directory
-cd enhanced-privacy-browser-analyzer
-
-# Install dependencies
-npm install
-
-# Start the analyzer
-npm start
-```
+Just double-click the html file "privacy-browser-analyzer.html" and you are ready for analyzing.
 
 ### Web Version
 
@@ -81,24 +67,6 @@ Coming soon
 - Analytics services
 - Social media widgets
 - Cross-site tracking scripts
-
-## 🔧 Configuration
-
-Create a `config.json` file to customize the analyzer:
-
-```json
-{
-  "enabledTests": {
-    "fingerprinting": true,
-    "cookieAnalysis": true,
-    "dnsLeaks": true,
-    "webrtcLeaks": true,
-    "trackerDetection": true
-  },
-  "reportFormat": "detailed",
-  "privacyThreshold": "strict"
-}
-```
 
 ## 📱 Browser Compatibility
 
@@ -151,7 +119,7 @@ This tool is designed to **enhance** your privacy, not compromise it:
 
 - **Bug Reports**: [GitHub Issues](https://github.com/yourusername/enhanced-privacy-browser-analyzer/issues)
 - **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/enhanced-privacy-browser-analyzer/discussions)
-- **Security Issues**: Please report privately via email to security@example.com
+- **Security Issues**: Please report privately via Matrix Messenger to: @openzenta:matrix.org
 
 ## 📜 License
 
